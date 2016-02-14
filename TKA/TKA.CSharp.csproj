@@ -106,6 +106,7 @@
     <Compile Include="Assets\ParticleEmitter.cs" />
     <Compile Include="Assets\Scripts\Boss.cs" />
     <Compile Include="Assets\Scripts\Head.cs" />
+    <Compile Include="Assets\Scripts\HeadMotion.cs" />
     <Compile Include="Assets\Scripts\Healthbar.cs" />
     <Compile Include="Assets\Scripts\ListenClient.cs" />
     <Compile Include="Assets\Scripts\Main.cs" />
