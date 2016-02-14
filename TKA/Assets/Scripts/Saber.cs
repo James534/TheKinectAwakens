@@ -19,11 +19,15 @@ public class Saber : MonoBehaviour
     {
         if (ListenClient.ori != null && ListenClient.ori.Length > 4)
         {
+			//Debug.Log (ListenClient.ori);
             string[] difPos = ListenClient.ori.Split('_');
+			Debug.Log (difPos);
             string[] pos = difPos[0].Split(' ');
+
             double accel = double.Parse(difPos[1]);
             int button = int.Parse(difPos[2]);
             int trigger = int.Parse(difPos[3]);
+			Debug.Log (button);
             byte[] bytes = System.BitConverter.GetBytes(button);
             if (pos.Length >= 4)
             {
