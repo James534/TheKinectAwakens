@@ -8,12 +8,15 @@ public class lightsabers : MonoBehaviour {
 	public Transform endPos;
 	private bool on = true;
 	private Vector3 endPositionExtended;
+	public AudioClip impact;
+	public AudioSource audio;
 
 	private float textureOffset = 0f;
 	// Use this for initialization
 	void Start () {
 		lineRend = GetComponent<LineRenderer>();
 		endPositionExtended = endPos.localPosition;
+		audio = GetComponent<AudioSource>();
 
 	}
 
@@ -25,6 +28,7 @@ public class lightsabers : MonoBehaviour {
 				on = false;
 			} else {
 				on = true;
+				audio.Play();
 			}
 		}
 
