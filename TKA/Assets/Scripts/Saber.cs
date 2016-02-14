@@ -19,7 +19,12 @@ public class Saber : MonoBehaviour
     {
         if (ListenClient.ori != null && ListenClient.ori.Length > 4)
         {
-            string[] pos = ListenClient.ori.Split(' ');
+            string[] difPos = ListenClient.ori.Split('_');
+            string[] pos = difPos[0].Split(' ');
+            double accel = double.Parse(difPos[1]);
+            int button = int.Parse(difPos[2]);
+            int trigger = int.Parse(difPos[3]);
+            byte[] bytes = System.BitConverter.GetBytes(button);
             if (pos.Length >= 4)
             {
                 Quaternion q = new Quaternion(float.Parse(pos[1]), float.Parse(pos[2]), float.Parse(pos[3]), float.Parse(pos[0]));
