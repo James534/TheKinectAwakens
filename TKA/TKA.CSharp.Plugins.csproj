@@ -153,6 +153,12 @@
     <Compile Include="Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
+    <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
+    <None Include="Assets\Cardboard\Resources\SolidColor.shader" />
+    <None Include="Assets\Cardboard\Resources\UI\CardboardReticleShader.shader" />
+    <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
