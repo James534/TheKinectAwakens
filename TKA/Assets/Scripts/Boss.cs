@@ -87,7 +87,7 @@ public class Boss : MonoBehaviour
     
     public void Damage(float dmg)
     {
-        curHealth -= dmg;
+        curHealth -= 2;
         if (curHealth <= 0)
         {
             curHealth = 0;
