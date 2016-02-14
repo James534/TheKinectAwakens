@@ -65,6 +65,23 @@ public class Saber : MonoBehaviour
             }
 
         }
+
+        if (ListenClient.pos != null && ListenClient.pos.Length > 5)
+        {
+            string[] strPos = ListenClient.pos.Split(';');
+            for (int i = 0; i < strPos.Length; i++)
+            {
+                if (strPos[i].Contains("rwrist"))
+                {
+                    string[] headPos = strPos[i].Split(' ');
+                    Debug.Log("POS: " + ListenClient.pos);
+                    Debug.Log("i: " + strPos[i]);
+                    transform.position =
+                        new Vector3(float.Parse(headPos[1]) * 5, float.Parse(headPos[2]) * 5, 7 - float.Parse(headPos[3]) * 2);
+                    break;
+                }
+            }
+        }
     }
 
     void OnTriggerEnter(Collider other)
@@ -82,3 +99,4 @@ public class Saber : MonoBehaviour
         //GameObject.Destroy(other);
     }
 }
+
