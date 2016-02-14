@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: b8c18617a6dbbd8488373c2a4c727a70
+timeCreated: 1455431071
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: pandarenyeti
+    100002: pandarenyeti 1
+    100004: pandarenyeti_bone_0
+    100006: pandarenyeti_bone_1
+    100008: pandarenyeti_bone_10
+    100010: pandarenyeti_bone_11
+    100012: pandarenyeti_bone_12
+    100014: pandarenyeti_bone_13
+    100016: pandarenyeti_bone_14
+    100018: pandarenyeti_bone_15
+    100020: pandarenyeti_bone_16
+    100022: pandarenyeti_bone_17
+    100024: pandarenyeti_bone_18
+    100026: pandarenyeti_bone_19
+    100028: pandarenyeti_bone_2
+    100030: pandarenyeti_bone_20
+    100032: pandarenyeti_bone_21
+    100034: pandarenyeti_bone_22
+    100036: pandarenyeti_bone_23
+    100038: pandarenyeti_bone_24
+    100040: pandarenyeti_bone_25
+    100042: pandarenyeti_bone_26
+    100044: pandarenyeti_bone_27
+    100046: pandarenyeti_bone_28
+    100048: pandarenyeti_bone_29
+    100050: pandarenyeti_bone_3
+    100052: pandarenyeti_bone_30
+    100054: pandarenyeti_bone_31
+    100056: pandarenyeti_bone_32
+    100058: pandarenyeti_bone_33
+    100060: pandarenyeti_bone_34
+    100062: pandarenyeti_bone_35
+    100064: pandarenyeti_bone_36
+    100066: pandarenyeti_bone_37
+    100068: pandarenyeti_bone_38
+    100070: pandarenyeti_bone_39
+    100072: pandarenyeti_bone_4
+    100074: pandarenyeti_bone_40
+    100076: pandarenyeti_bone_41
+    100078: pandarenyeti_bone_42
+    100080: pandarenyeti_bone_43
+    100082: pandarenyeti_bone_44
+    100084: pandarenyeti_bone_45
+    100086: pandarenyeti_bone_46
+    100088: pandarenyeti_bone_47
+    100090: pandarenyeti_bone_48
+    100092: pandarenyeti_bone_49
+    100094: pandarenyeti_bone_5
+    100096: pandarenyeti_bone_50
+    100098: pandarenyeti_bone_51
+    100100: pandarenyeti_bone_52
+    100102: pandarenyeti_bone_53
+    100104: pandarenyeti_bone_54
+    100106: pandarenyeti_bone_55
+    100108: pandarenyeti_bone_56
+    100110: pandarenyeti_bone_57
+    100112: pandarenyeti_bone_58
+    100114: pandarenyeti_bone_59
+    100116: pandarenyeti_bone_6
+    100118: pandarenyeti_bone_60
+    100120: pandarenyeti_bone_61
+    100122: pandarenyeti_bone_62
+    100124: pandarenyeti_bone_63
+    100126: pandarenyeti_bone_64
+    100128: pandarenyeti_bone_65
+    100130: pandarenyeti_bone_7
+    100132: pandarenyeti_bone_8
+    100134: pandarenyeti_bone_9
+    100136: //RootNode
+    400000: pandarenyeti
+    400002: pandarenyeti 1
+    400004: pandarenyeti_bone_0
+    400006: pandarenyeti_bone_1
+    400008: pandarenyeti_bone_10
+    400010: pandarenyeti_bone_11
+    400012: pandarenyeti_bone_12
+    400014: pandarenyeti_bone_13
+    400016: pandarenyeti_bone_14
+    400018: pandarenyeti_bone_15
+    400020: pandarenyeti_bone_16
+    400022: pandarenyeti_bone_17
+    400024: pandarenyeti_bone_18
+    400026: pandarenyeti_bone_19
+    400028: pandarenyeti_bone_2
+    400030: pandarenyeti_bone_20
+    400032: pandarenyeti_bone_21
+    400034: pandarenyeti_bone_22
+    400036: pandarenyeti_bone_23
+    400038: pandarenyeti_bone_24
+    400040: pandarenyeti_bone_25
+    400042: pandarenyeti_bone_26
+    400044: pandarenyeti_bone_27
+    400046: pandarenyeti_bone_28
+    400048: pandarenyeti_bone_29
+    400050: pandarenyeti_bone_3
+    400052: pandarenyeti_bone_30
+    400054: pandarenyeti_bone_31
+    400056: pandarenyeti_bone_32
+    400058: pandarenyeti_bone_33
+    400060: pandarenyeti_bone_34
+    400062: pandarenyeti_bone_35
+    400064: pandarenyeti_bone_36
+    400066: pandarenyeti_bone_37
+    400068: pandarenyeti_bone_38
+    400070: pandarenyeti_bone_39
+    400072: pandarenyeti_bone_4
+    400074: pandarenyeti_bone_40
+    400076: pandarenyeti_bone_41
+    400078: pandarenyeti_bone_42
+    400080: pandarenyeti_bone_43
+    400082: pandarenyeti_bone_44
+    400084: pandarenyeti_bone_45
+    400086: pandarenyeti_bone_46
+    400088: pandarenyeti_bone_47
+    400090: pandarenyeti_bone_48
+    400092: pandarenyeti_bone_49
+    400094: pandarenyeti_bone_5
+    400096: pandarenyeti_bone_50
+    400098: pandarenyeti_bone_51
+    400100: pandarenyeti_bone_52
+    400102: pandarenyeti_bone_53
+    400104: pandarenyeti_bone_54
+    400106: pandarenyeti_bone_55
+    400108: pandarenyeti_bone_56
+    400110: pandarenyeti_bone_57
+    400112: pandarenyeti_bone_58
+    400114: pandarenyeti_bone_59
+    400116: pandarenyeti_bone_6
+    400118: pandarenyeti_bone_60
+    400120: pandarenyeti_bone_61
+    400122: pandarenyeti_bone_62
+    400124: pandarenyeti_bone_63
+    400126: pandarenyeti_bone_64
+    400128: pandarenyeti_bone_65
+    400130: pandarenyeti_bone_7
+    400132: pandarenyeti_bone_8
+    400134: pandarenyeti_bone_9
+    400136: //RootNode
+    4300000: pandarenyeti
+    7400000: AttackOff
+    7400002: Death
+    7400004: Run
+    7400006: Stand
+    7400008: Walk
+    9500000: //RootNode
+    13700000: pandarenyeti
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
