@@ -6,12 +6,20 @@ public class Saber : MonoBehaviour
     ListenClient lc;
     Quaternion upInv;
     GameObject pivot;
+	public AudioClip impact;
+	public AudioSource audio;
+	public static bool globalExtended = false;
+	public BitArray b;
+	int endPlay = 2;
     // Use this for initialization
     void Start()
     {
         lc = GetComponent<ListenClient>();
         upInv = Quaternion.Euler(-1, 0, -1);
         pivot = GameObject.Find("Lightsaber");
+		var audios = GetComponents<AudioSource>();
+		audio = audios [1];
+		audio.timeSamples = 100;
     }
 
     // Update is called once per frame
@@ -25,10 +33,25 @@ public class Saber : MonoBehaviour
             string[] pos = difPos[0].Split(' ');
 
             double accel = double.Parse(difPos[1]);
+			if (accel >= 7000 && !audio.isPlaying) {
+				audio.Play ();
+			}
             int button = int.Parse(difPos[2]);
             int trigger = int.Parse(difPos[3]);
 			Debug.Log (button);
-            byte[] bytes = System.BitConverter.GetBytes(button);
+			b = new BitArray (new int[] { button });
+			bool[] bits = new bool[32];
+			if (button != 0) {
+				b.CopyTo (bits, 0);
+
+			}
+			Debug.Log ("button " + bits[19]);
+			if (bits [19]) {
+				globalExtended = true;
+			} else {
+				globalExtended = false;
+			}
+
             if (pos.Length >= 4)
             {
                 Quaternion q = new Quaternion(float.Parse(pos[1]), float.Parse(pos[2]), float.Parse(pos[3]), float.Parse(pos[0]));
@@ -40,6 +63,7 @@ public class Saber : MonoBehaviour
                 pivot.transform.rotation = Quaternion.Euler(e);
                 //Debug.Log("transformed");
             }
+
         }
     }
 

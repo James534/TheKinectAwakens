@@ -16,18 +16,20 @@ public class lightsabers : MonoBehaviour {
 	void Start () {
 		lineRend = GetComponent<LineRenderer>();
 		endPositionExtended = endPos.localPosition;
-		audio = GetComponent<AudioSource>();
+		var audios = GetComponents<AudioSource>();
+		audio = audios [0];
 
 	}
 
 	// Update is called once per frame
 	void Update () {
 		//update line positions
-		if (Input.GetKeyDown(KeyCode.Space)) {
+		if (Saber.globalExtended) {
 			if (on) {
 				on = false;
 			} else {
 				on = true;
+				Debug.Log ("On is " + on + " globalExtended is " + Saber.globalExtended + " audio is about to play");
 				audio.Play();
 			}
 		}
