@@ -40,11 +40,12 @@ public class ListenClient : MonoBehaviour
         bool running;
         public void run()
         {
+			Debug.Log ("Starting Thread");
             running = true;
             try
             {
                 Socket soc = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-                System.Net.IPAddress ipAdd = System.Net.IPAddress.Parse("10.19.190.253");
+                System.Net.IPAddress ipAdd = System.Net.IPAddress.Parse("10.19.190.232");
                 System.Net.IPEndPoint remoteEP = new IPEndPoint(ipAdd, 1234);
                 soc.ReceiveTimeout = 1000;
                 soc.SendTimeout = 1000;
@@ -63,7 +64,8 @@ public class ListenClient : MonoBehaviour
                     //Debug.Log(recv);
                     //msg = recv;
                     string[] msgs = recv.Split('@');
-                    pos = msgs[0];
+                    ori = msgs[0];
+					pos = msgs[1];
                     /*
                     if (msgs[0].Split(' ').Length == 4)
                     {
