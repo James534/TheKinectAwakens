@@ -250,7 +250,1227 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ogrewarlord
+        weight: 1
+      - path: ogrewarlord 1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_20
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_92
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_93
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_94
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_95
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27/ogrewarlord_bone_37
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28/ogrewarlord_bone_38
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29/ogrewarlord_bone_39
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30/ogrewarlord_bone_40
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31/ogrewarlord_bone_41
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_98
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_99
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_103
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_104
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_96
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_91
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_88
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32/ogrewarlord_bone_42
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33/ogrewarlord_bone_43
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34/ogrewarlord_bone_44
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35/ogrewarlord_bone_45
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36/ogrewarlord_bone_46
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_97
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_100
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_101
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_102
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_105
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_90
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_89
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_11
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_12
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_78
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_79
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_80
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_81
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_82
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_83
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_84
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_85
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_86
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_87
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_5
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_72
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_73
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_74
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_75
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_76
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_77
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18/ogrewarlord_bone_23
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19/ogrewarlord_bone_24
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_71
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_70
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_47
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_48
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_49
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_50
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_51
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_52
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_53
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_54
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_55
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_56
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_57
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_58
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_59
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_60
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_61
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_62
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_63
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_64
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_65
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_66
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_67
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_68
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_69
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ogrewarlord
+        weight: 1
+      - path: ogrewarlord 1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_20
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_92
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_93
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_94
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_95
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27/ogrewarlord_bone_37
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28/ogrewarlord_bone_38
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29/ogrewarlord_bone_39
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30/ogrewarlord_bone_40
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31/ogrewarlord_bone_41
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_98
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_99
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_103
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_104
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_96
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_91
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_88
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32/ogrewarlord_bone_42
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33/ogrewarlord_bone_43
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34/ogrewarlord_bone_44
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35/ogrewarlord_bone_45
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36/ogrewarlord_bone_46
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_97
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_100
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_101
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_102
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_105
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_90
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_89
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_11
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_12
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_78
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_79
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_80
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_81
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_82
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_83
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_84
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_85
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_86
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_87
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_5
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_72
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_73
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_74
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_75
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_76
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_77
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18/ogrewarlord_bone_23
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19/ogrewarlord_bone_24
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_71
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_70
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_47
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_48
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_49
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_50
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_51
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_52
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_53
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_54
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_55
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_56
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_57
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_58
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_59
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_60
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_61
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_62
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_63
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_64
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_65
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_66
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_67
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_68
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_69
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stand
+      takeName: Stand
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ogrewarlord
+        weight: 1
+      - path: ogrewarlord 1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_20
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_92
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_93
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_94
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_95
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27/ogrewarlord_bone_37
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28/ogrewarlord_bone_38
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29/ogrewarlord_bone_39
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30/ogrewarlord_bone_40
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31/ogrewarlord_bone_41
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_98
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_99
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_103
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_104
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_96
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_91
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_88
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32/ogrewarlord_bone_42
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33/ogrewarlord_bone_43
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34/ogrewarlord_bone_44
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35/ogrewarlord_bone_45
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36/ogrewarlord_bone_46
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_97
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_100
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_101
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_102
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_105
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_90
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_89
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_11
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_12
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_78
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_79
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_80
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_81
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_82
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_83
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_84
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_85
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_86
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_87
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_5
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_72
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_73
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_74
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_75
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_76
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_77
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18/ogrewarlord_bone_23
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19/ogrewarlord_bone_24
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_71
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_70
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_47
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_48
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_49
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_50
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_51
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_52
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_53
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_54
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_55
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_56
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_57
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_58
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_59
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_60
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_61
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_62
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_63
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_64
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_65
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_66
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_67
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_68
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_69
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ogrewarlord
+        weight: 1
+      - path: ogrewarlord 1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_20
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_92
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_93
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_94
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_95
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27/ogrewarlord_bone_37
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28/ogrewarlord_bone_38
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29/ogrewarlord_bone_39
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30/ogrewarlord_bone_40
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31/ogrewarlord_bone_41
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_98
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_99
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_103
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_104
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_96
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_91
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_88
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32/ogrewarlord_bone_42
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33/ogrewarlord_bone_43
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34/ogrewarlord_bone_44
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35/ogrewarlord_bone_45
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36/ogrewarlord_bone_46
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_97
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_100
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_101
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_102
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_105
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_90
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_89
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_11
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_12
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_78
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_79
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_80
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_81
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_82
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_83
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_84
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_85
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_86
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_87
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_5
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_72
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_73
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_74
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_75
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_76
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_77
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18/ogrewarlord_bone_23
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19/ogrewarlord_bone_24
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_71
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_70
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_47
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_48
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_49
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_50
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_51
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_52
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_53
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_54
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_55
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_56
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_57
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_58
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_59
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_60
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_61
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_62
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_63
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_64
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_65
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_66
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_67
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_68
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_69
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack2HL
+      takeName: Attack2HL
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ogrewarlord
+        weight: 1
+      - path: ogrewarlord 1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_20
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_92
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_93
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_94
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_8/ogrewarlord_bone_15/ogrewarlord_bone_95
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_27/ogrewarlord_bone_37
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_28/ogrewarlord_bone_38
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_29/ogrewarlord_bone_39
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_30/ogrewarlord_bone_40
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_31/ogrewarlord_bone_41
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_98
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_99
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_103
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_25/ogrewarlord_bone_104
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_21/ogrewarlord_bone_96
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_16/ogrewarlord_bone_91
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_9/ogrewarlord_bone_88
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_32/ogrewarlord_bone_42
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_33/ogrewarlord_bone_43
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_34/ogrewarlord_bone_44
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_35/ogrewarlord_bone_45
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_36/ogrewarlord_bone_46
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_97
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_100
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_101
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_102
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_22/ogrewarlord_bone_26/ogrewarlord_bone_105
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_17/ogrewarlord_bone_90
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_10/ogrewarlord_bone_89
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_11
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_12
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_78
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_79
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_80
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_81
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_82
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_83
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_84
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_85
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_86
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_4/ogrewarlord_bone_87
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_5
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_72
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_73
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_74
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_75
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_76
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_2/ogrewarlord_bone_77
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_6/ogrewarlord_bone_13/ogrewarlord_bone_18/ogrewarlord_bone_23
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_7/ogrewarlord_bone_14/ogrewarlord_bone_19/ogrewarlord_bone_24
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_1/ogrewarlord_bone_3/ogrewarlord_bone_71
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_0/ogrewarlord_bone_70
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_47
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_48
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_49
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_50
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_51
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_52
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_53
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_54
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_55
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_56
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_57
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_58
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_59
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_60
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_61
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_62
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_63
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_64
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_65
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_66
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_67
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_68
+        weight: 1
+      - path: ogrewarlord 1/ogrewarlord_bone_69
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
