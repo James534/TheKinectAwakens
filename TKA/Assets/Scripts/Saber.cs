@@ -34,6 +34,15 @@ public class Saber : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.name.Equals("BoulderfistOgre"))
+        {
+            Boss b = other.gameObject.GetComponent<Boss>();
+            b.Damage(10);
+        }
+    }
+
     void OnParticleCollision(GameObject other)
     {
         Debug.Log("Hit");
